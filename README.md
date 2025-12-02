@@ -21,8 +21,6 @@ The report is structured to support decision-making and improve transparency in 
 
 ---
 
----
-
 ## 📊 Key Metrics & KPIs
 
 ### 💰 **1. Total Billing Amount**
