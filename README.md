@@ -82,13 +82,6 @@ The report is structured to support decision-making and improve transparency in 
 
 ---
 
-## 📷 Dashboard Screenshots
 
-Add your images to your repo and use the markdown below:
-
-```md
-![Dark_mode](Light_mode.png)
-![Light_mode](Dark_mode.png)
-![Filters](Filters.png)
 
 
