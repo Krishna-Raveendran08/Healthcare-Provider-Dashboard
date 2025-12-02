@@ -87,8 +87,6 @@ The report is structured to support decision-making and improve transparency in 
 Add your images to your repo and use the markdown below:
 
 ```md
-![Billing Overview](billing_overview.png)
-![Cost Breakdown](cost_breakdown.png)
-![Insurance Split](insurance_split.png)
-![Procedure Billing](procedure_billing.png)
-![Map Visual](map_visual.png)
+![Dark_mode](Light_mode.png)
+![Light_mode](Dark_mode.png)
+![Filters](Filters.png)
