@@ -87,12 +87,8 @@ The report is structured to support decision-making and improve transparency in 
 Add your images to your repo and use the markdown below:
 
 ```md
-Dark_mode
-<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/cd3a7340-8789-403e-83b3-a3b9f5e09246" />
+![Dark_mode](Light_mode.png)
+![Light_mode](Dark_mode.png)
+![Filters](Filters.png)
 
-Light_mode
-<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/6183ece7-6916-4d8e-982d-ce0e8312a18c" />
-
-Filters
-<img width="1323" height="741" alt="image" src="https://github.com/user-attachments/assets/b41c7458-8967-4569-ae7c-fb2141840799" />
 
